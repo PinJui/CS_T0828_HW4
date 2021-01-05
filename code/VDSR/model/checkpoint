@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/aimmlab/Documents/hw4/VDSR-Tensorflow/VDSR/model/VDSR.ckpt"
+all_model_checkpoint_paths: "/home/aimmlab/Documents/hw4/VDSR-Tensorflow/VDSR/model/VDSR.ckpt"
