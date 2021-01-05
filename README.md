@@ -37,29 +37,29 @@ Can only achieve PSNR = 25.161 according to TA's evaluation
 
 Some results with obvious difference:
 
-Bicubic
+Bicubic 
 
-![img1bic](https://github.com/PinJui/CS_T0828_HW4/blob/main/result/08_bic.png)
-
-VDSR
-
-![img1vdsr](https://github.com/PinJui/CS_T0828_HW4/blob/main/result/08.png)
-
-Bicubic
-
-![img2bic](https://github.com/PinJui/CS_T0828_HW4/blob/main/result/09_bic.png)
+<img src="https://github.com/PinJui/CS_T0828_HW4/blob/main/result/08_bic.png" width="50%" height="50%"/>
 
 VDSR
 
-![img2vdsr](https://github.com/PinJui/CS_T0828_HW4/blob/main/result/09.png)
+<img src="https://github.com/PinJui/CS_T0828_HW4/blob/main/result/08.png" width="50%" height="50%"/>
 
 Bicubic
 
-![img3bic](https://github.com/PinJui/CS_T0828_HW4/blob/main/result/11_bic.png)
+<img src="https://github.com/PinJui/CS_T0828_HW4/blob/main/result/09_bic.png" width="50%" height="50%"/>
 
 VDSR
 
-![img3vdsr](https://github.com/PinJui/CS_T0828_HW4/blob/main/result/11.png)
+<img src="https://github.com/PinJui/CS_T0828_HW4/blob/main/result/09.png" width="50%" height="50%"/>
+
+Bicubic
+
+<img src="https://github.com/PinJui/CS_T0828_HW4/blob/main/result/11_bic.png" width="30%" height="30%"/>
+
+VDSR
+
+<img src="https://github.com/PinJui/CS_T0828_HW4/blob/main/result/11.png" width="30%" height="30%"/>
 
 ## Reference
 <a name="[1]"> [1] [VDSR-Tensorflow](https://github.com/DevKiHyun/VDSR-Tensorflow)
