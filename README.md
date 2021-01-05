@@ -37,17 +37,29 @@ Can only achieve PSNR = 25.161 according to TA's evaluation
 
 Some results with obvious difference:
 
-![img1bic](link)
+Bicubic
 
-![img1vdsr](link)
+![img1bic](https://github.com/PinJui/CS_T0828_HW4/blob/main/result/08_bic.png)
 
-![img2bic](link)
+VDSR
 
-![img2vdsr](link)
+![img1vdsr](https://github.com/PinJui/CS_T0828_HW4/blob/main/result/08.png)
 
-![img3bic](link)
+Bicubic
 
-![img3vdsr](link)
+![img2bic](https://github.com/PinJui/CS_T0828_HW4/blob/main/result/09_bic.png)
+
+VDSR
+
+![img2vdsr](https://github.com/PinJui/CS_T0828_HW4/blob/main/result/09.png)
+
+Bicubic
+
+![img3bic](https://github.com/PinJui/CS_T0828_HW4/blob/main/result/11_bic.png)
+
+VDSR
+
+![img3vdsr](https://github.com/PinJui/CS_T0828_HW4/blob/main/result/11.png)
 
 ## Reference
 <a name="[1]"> [1] [VDSR-Tensorflow](https://github.com/DevKiHyun/VDSR-Tensorflow)
